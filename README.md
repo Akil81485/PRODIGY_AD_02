@@ -1,6 +1,3 @@
-Certainly! Below is a structured guide for creating a To-Do List app for Android that allows users to add, edit, and delete tasks. This guide covers project setup, UI design, implementing logic, writing tests, and summarizing the knowledge gained.
-
----
 
 # Prodigy InfoTech Internship: Android Development Task
 
@@ -284,8 +281,4 @@ The task successfully demonstrated the fundamental steps required to build a To-
 - Development of task management functionalities
 - Testing practices to ensure app reliability
 
-These experiences highlight essential skills in Android app development and showcase the ability to create a functional and user-friendly mobile application.
 
----
-
-Feel free to modify and expand this guide based on specific requirements or additional features you may want to implement in your To-Do List app.
